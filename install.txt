@@ -1,0 +1,15 @@
+instalar o node.js
+
+	- https://nodejs.org/en/. s
+
+Primeiro instaçlar a ferramenta.
+	
+	- npm install create-react-app
+	
+Agora, criar o projeto com NPX
+
+	- npx create-react-app curso-react-alura
+
+Feito isso, entre no diretório criado pela ferramenta e então execute:
+
+	- npm start
